@@ -44,7 +44,7 @@ Coming soon (e.g. GitHub Pages)
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/paradise-nursery.git
+git clone https://github.com/dsilva17/paradise-nursery.git
 cd paradise-nursery
 
 Install dependencies:
